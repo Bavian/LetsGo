@@ -1,4 +1,3 @@
-
 # Строки
 
 Язык Go использует UTF-8 для кодировки символов.
@@ -80,4 +79,7 @@ fmt.Printf(str[7:]) // World!
 fmt.Printf(str[:4]) // Hello
 fmt.Printf(str[3:4]) // llo
 ```
-
+## String links
+* https://go101.org/article/string.html
+* https://go101.org/article/container.html#subslice
+* https://webhamster.ru/mytetrashare/index/mtb339/16051877752tr9zoyili
